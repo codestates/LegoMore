@@ -1,0 +1,70 @@
+.bottomline {
+  border-bottom: 2px solid rgb(207, 204, 204);
+}
+.list {
+  float: left;
+  margin-right: 25px;
+  text-align: center;
+}
+
+.mypage {
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.myinfo-title {
+  color: #f24826;
+  font-size: 20px;
+  margin: 40px;
+  font-weight: bold;
+  background: white;
+}
+
+.myinfo input {
+  width: 280px;
+  height: 3em;
+  margin: 10px;
+  border: solid 2px #f24826;
+  border-radius: 8px;
+  color: #f24826;
+}
+
+.myinfo1 input {
+  width: 280px;
+  height: 3em;
+  margin: 10px;
+  margin-left: 80px;
+  border: solid 2px #f24826;
+  border-radius: 8px;
+  color: #f24826;
+}
+
+.myinfo-nickname input {
+  width: 20%;
+  height: 3em;
+  margin: 10px;
+  border: solid 2px #f24826;
+  border-radius: 8px;
+  color: #f24826;
+}
+
+.edit-delete button {
+  width: 10%;
+  height: 3em;
+  margin: 20px;
+  color: #fff;
+  background-color: #f24826;
+  border-radius: 8px;
+  border: solid 2px #f24826;
+}
+
+.editbutton button {
+  width: 5%;
+  height: 2em;
+  margin-top: 3px;
+  margin-bottom: 10px;
+  color: #f24826;
+  background-color: #fff;
+  border-radius: 8px;
+  border: solid 2px #f24826;
+}
